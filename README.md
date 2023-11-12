@@ -25,6 +25,4 @@ So, here's registries that reassign keys to make a UNIX-Like experience.
 
    Remove all key reassignments.
 #
-Every registry file works after reboot.
-
-Best wish for your productivity.
+Every registry file works after reboot. Best wish for your productivity.
