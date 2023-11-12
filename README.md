@@ -7,7 +7,7 @@ Every pressing ESC key in vim makes your left hand away from right place. This i
 
 In Linux there's system settings to reassign keys in one's taste, but Windows isn't.
 
-So, here's registries to reassign keys can make UNIX-Like experience.
+So, here's registries that reassign keys to make a UNIX-Like experience.
 ### Files
 1. ctrlcaps_escaccent_swap.reg
    
