@@ -1,9 +1,13 @@
 # KeysLikeUNIX : Make your keyboard efficient
 ### Have you ever thought why keyboard layout is so inefficient?
 
-Mostly used Ctrl key is just hiding in very corner of keyboard, rarely used Caps Lock key occupies golden place,
+Mostly used Ctrl key is just hiding in very corner of keyboard,
 
-Every pressing ESC key in vim makes your left hand away from right place. **This is UNFAIR!!**
+rarely used Caps Lock key occupies golden place, 
+
+every pressing ESC key in vim makes your left hand away from right place. 
+
+**This is UNFAIR!!**
 
 In Linux there's system settings to reassign keys in one's taste, but Windows isn't.
 
