@@ -1,7 +1,7 @@
 # KeyLikeUNIX
 ### Have you ever thought why keyboard layout is so inefficient?
 
-Mostly used Ctrl key is just hiding in very corner of keyboard, rarely used Caps Lock occupies golden place,
+Mostly used Ctrl key is just hiding in very corner of keyboard, rarely used Caps Lock key occupies golden place,
 
 Every pressing ESC key in vim makes your left hand away from right place. This is UNFAIR!!
 
