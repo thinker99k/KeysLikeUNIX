@@ -1,4 +1,4 @@
-# KeysLikeUNIX : A registry to reassign keys by priority
+# KeysLikeUNIX : Make your keyboard efficient
 ### Have you ever thought why keyboard layout is so inefficient?
 
 Mostly used Ctrl key is just hiding in very corner of keyboard, rarely used Caps Lock key occupies golden place,
