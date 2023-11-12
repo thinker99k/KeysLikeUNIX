@@ -19,7 +19,7 @@ So, here's registries that reassign keys to make a UNIX-Like experience.
    
 3. escaccent_swap.reg
    
-   Swaps ESC <-> `(~)key, recommended for Vim enthusiast but cannot give up Ctrl based shortcuts.
+   Swaps ESC <-> `(~)key, recommended for Vim enthusiast who cannot give up Ctrl based shortcuts.
    
 4. remove_all_swap.reg
 
