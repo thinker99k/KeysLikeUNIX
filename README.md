@@ -7,7 +7,7 @@ rarely used Caps Lock key occupies golden place,
 
 every pressing ESC key in vim makes your left hand away from right place. 
 
-**This is UNFAIR!!**
+### This is UNFAIR!!
 
 In Linux there's system settings to reassign keys in one's taste, but Windows isn't.
 
