@@ -13,7 +13,7 @@ So, here's registries that reassign keys to make a UNIX-Like keyboard experience
 
 1. **unix.reg**
 
-   Swaps Ctrl <-> CapsLock, and BackSpace <-> BackSlash
+   Swaps Ctrl <-> CapsLock and BackSpace <-> BackSlash
    
    
 2. **reset.reg**
