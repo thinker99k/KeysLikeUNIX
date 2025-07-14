@@ -20,5 +20,5 @@ So, here's registries that reassign keys to make a UNIX-Like keyboard experience
 
    Remove all key reassignments.
 
-
+---
 **Registry file works after reboot.**
